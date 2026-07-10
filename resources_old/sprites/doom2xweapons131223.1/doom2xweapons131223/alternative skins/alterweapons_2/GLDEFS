@@ -1,0 +1,20 @@
+/* -------------------------------------------------------------------------- */
+/* --- BRIGHTMAPS ----------------------------------------------------------- */
+
+
+// --- SPRITES_WEAPONS ----------------------------------------------------------------
+brightmap texture "SHT2A0" { map "brightmaps/sprites/SHT2A0.png" }
+brightmap texture "SHTGA0" { map "brightmaps/sprites/SHTGA0.png" }
+brightmap texture "BFGGA0" { map "brightmaps/sprites/BFGGA0.png" }
+brightmap texture "BFGGB0" { map "brightmaps/sprites/BFGGB0.png" }
+
+brightmap texture "PLSFA0" { map "brightmaps/sprites/PLSFA0.png" }
+brightmap texture "PLSFB0" { map "brightmaps/sprites/PLSFB0.png" }
+brightmap texture "PLSGA0" { map "brightmaps/sprites/PLSGA0.png" }
+brightmap texture "PLSGB0" { map "brightmaps/sprites/PLSGB0.png" }
+
+brightmap texture "MISGA0" { map "brightmaps/sprites/MISGA0.png" }
+brightmap texture "MISGB0" { map "brightmaps/sprites/MISGB0.png" }
+
+
+/*

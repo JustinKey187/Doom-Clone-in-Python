@@ -1,0 +1,49 @@
+/* -------------------------------------------------------------------------- */
+/* --- BRIGHTMAPS ----------------------------------------------------------- */
+
+
+// --- SPRITES_WEAPONS ----------------------------------------------------------------
+brightmap texture "CSAWA0" { map "brightmaps/sprites/CSAWA0.png" }
+brightmap texture "PLASA0" { map "brightmaps/sprites/PLASA0.png" }
+brightmap texture "BAR1A0" { map "brightmaps/sprites/BAR1A0.png" }
+brightmap texture "BAR1B0" { map "brightmaps/sprites/BAR1B0.png" }
+brightmap texture "BFUGA0" { map "brightmaps/sprites/BFUGA0.png" }
+
+// --- SPRITES_ITEMS ----------------------------------------------------------------
+
+brightmap texture "BPAKA0" { map "brightmaps/sprites/BPAKA0.png" }
+
+brightmap texture "BON1A0" { map "brightmaps/sprites/BON1A0.png" }
+brightmap texture "BON1B0" { map "brightmaps/sprites/BON1B0.png" }
+brightmap texture "BON1C0" { map "brightmaps/sprites/BON1C0.png" }
+brightmap texture "BON1D0" { map "brightmaps/sprites/BON1D0.png" }
+
+brightmap texture "BON2A0" { map "brightmaps/sprites/BON2A0.png" }
+brightmap texture "BON2B0" { map "brightmaps/sprites/BON2B0.png" }
+brightmap texture "BON2C0" { map "brightmaps/sprites/BON2C0.png" }
+brightmap texture "BON2D0" { map "brightmaps/sprites/BON2D0.png" }
+
+brightmap texture "CELLA0" { map "brightmaps/sprites/CELLA0.png" }
+brightmap texture "CELPA0" { map "brightmaps/sprites/CELPA0.png" }
+
+brightmap texture "MEDIA0" { map "brightmaps/sprites/MEDIA0.png" }
+
+brightmap texture "PINVA0" { map "brightmaps/sprites/PINVA0.png" }
+brightmap texture "PINVB0" { map "brightmaps/sprites/PINVB0.png" }
+brightmap texture "PINVC0" { map "brightmaps/sprites/PINVC0.png" }
+brightmap texture "PINVD0" { map "brightmaps/sprites/PINVD0.png" }
+
+brightmap texture "PSTRA0" { map "brightmaps/sprites/PSTRA0.png" }
+
+
+brightmap texture "SOULA0" { map "brightmaps/sprites/SOULA0.png" }
+brightmap texture "SOULB0" { map "brightmaps/sprites/SOULB0.png" }
+brightmap texture "SOULC0" { map "brightmaps/sprites/SOULC0.png" }
+brightmap texture "SOULD0" { map "brightmaps/sprites/SOULD0.png" }
+
+
+// --- OBJECTS ----------------------------------------------------------------
+
+brightmap texture "COL6A0" { map "brightmaps/sprites/COL6A0.png" }
+
+/*

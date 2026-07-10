@@ -1,0 +1,41 @@
+/* -------------------------------------------------------------------------- */
+/* --- BRIGHTMAPS ----------------------------------------------------------- */
+
+
+
+// --- TEXTURES ----------------------------------------------------------------
+brightmap texture "bigdoor2" { map "brightmaps/textures/bigdoor2.png" }
+brightmap texture "bigdoor3" { map "brightmaps/textures/bigdoor3.png" }
+brightmap texture "bigdoor4" { map "brightmaps/textures/bigdoor4.png" }
+brightmap texture "bstone3" { map "brightmaps/textures/bstone3.png" }
+brightmap texture "CEIL3_4" { map "brightmaps/textures/CEIL3_4.png" }
+brightmap texture "CEIL3_6" { map "brightmaps/textures/CEIL3_6.png" }
+brightmap texture "compblue" { map "brightmaps/textures/compblue.png" }
+brightmap texture "comptile" { map "brightmaps/textures/comptile.png" }
+brightmap texture "exitdoor" { map "brightmaps/textures/exitdoor.png" }
+brightmap texture "sladskul" { map "brightmaps/textures/sladskul.png" }
+brightmap texture "wood4" { map "brightmaps/textures/wood4.png" }
+brightmap texture "woodskul" { map "brightmaps/textures/woodskul.png" }
+brightmap texture "doorblu" { map "brightmaps/textures/doorblu.png" }
+brightmap texture "doorblu2" { map "brightmaps/textures/doorblu2.png" }
+brightmap texture "doorred" { map "brightmaps/textures/doorred.png" }
+brightmap texture "doorred2" { map "brightmaps/textures/doorred2.png" }
+brightmap texture "dooryel" { map "brightmaps/textures/dooryel.png" }
+brightmap texture "dooryel2" { map "brightmaps/textures/dooryel2.png" }
+brightmap texture "flat2" { map "brightmaps/textures/flat2.png" }
+brightmap texture "flat17" { map "brightmaps/textures/flat17.png" }
+brightmap texture "lite4" { map "brightmaps/textures/lite4.png" }
+brightmap texture "liteblu4" { map "brightmaps/textures/liteblu4.png" }
+brightmap texture "spcdoor3" { map "brightmaps/textures/spcdoor3.png" }
+brightmap texture "sw1gston" { map "brightmaps/textures/sw1gston.png" }
+brightmap texture "sw2gston" { map "brightmaps/textures/sw2gston.png" }
+brightmap texture "sw1marb" { map "brightmaps/textures/sw1marb.png" }
+brightmap texture "sw2marb" { map "brightmaps/textures/sw2marb.png" }
+brightmap texture "sw1blue" { map "brightmaps/textures/sw1blue.png" }
+brightmap texture "sw2blue" { map "brightmaps/textures/sw2blue.png" }
+brightmap texture "sw1hot" { map "brightmaps/textures/sw1hot.png" }
+brightmap texture "sw2hot" { map "brightmaps/textures/sw2hot.png" }
+
+
+
+/*
