@@ -1,4 +1,7 @@
 import math
+import pygame as pg
+
+pg.init()
 
 #GAME SETTINGS
 RES = WIDTH, HEIGHT = 1920, 1080
