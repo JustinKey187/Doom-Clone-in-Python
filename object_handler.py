@@ -29,6 +29,8 @@ class ObjectHandler:
         add_sprite(AnimatedSprite(game, path=self.anim_sprite_path + 'red_light/0.png', pos=(14.5, 7.0)))
         add_sprite(AnimatedSprite(game, path=self.anim_sprite_path + 'red_light/0.png', pos=(14.5, 2.0)))
 
+
+
         # npc map
         add_npc(NPC(game))
         add_npc(NPC(game, pos=(11.5, 4.5)))
