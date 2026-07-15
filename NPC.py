@@ -198,3 +198,14 @@ class CacoDemonNPC(NPC):
         self.health = 100
         self.attack_damage = 10
         self.accuracy = 0.15
+
+class CyberDemonNPC(NPC):
+    def __init__(self, game, path='resources/sprites/npc/cyber_demon/0.png', pos=(9.5, 5.5),
+                 scale=1, shift=0.18, animation_time=180):
+        super().__init__(game, path, pos, scale, shift, animation_time)
+        self.attack_dist = randint(3, 6)
+        self.speed = 0.03
+        self.size = 10
+        self.health = 100
+        self.attack_damage = 10
+        self.accuracy = 0.15
